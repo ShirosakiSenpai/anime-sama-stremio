@@ -1,0 +1,8 @@
+{
+  "name": "anime-sama-stremio-addon-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototype d'adaptation du provider Anime-Sama Nuvio au protocole Stremio",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
